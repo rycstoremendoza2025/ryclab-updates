@@ -1,5 +1,7 @@
 {
-  "version": "1.0.0",
-  "novedades": [],
-  "url_descarga": ""
+  "version": "1.2.0",
+  "novedades": [
+    "Corrección: las categorías ya no se pierden al sincronizar con la app móvil"
+  ],
+  "url_descarga": "https://play.google.com/store/apps/details?id=com.ryclab3d.app"
 }
