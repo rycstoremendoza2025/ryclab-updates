@@ -1,9 +1,10 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "novedades": [
     "Agregado Generador de Presupuestos sincronizado con PC",
     "Nueva función de Impuestos en resumen mensual",
     "Importación de presupuestos en el facturador"
+    "Mejora en la visualizacion de pantalla"
   ],
   "url_descarga": "https://play.google.com/store/apps/details?id=com.ryclab3d.app"
 }
